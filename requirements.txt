@@ -1,0 +1,22 @@
+# Core Jupyter and scientific computing
+jupyter
+notebook
+jupyterlab
+
+# Data manipulation and analysis
+pandas
+numpy
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+
+# Additional utilities
+requests
+openpyxl
+xlrd
